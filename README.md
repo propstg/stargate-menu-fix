@@ -18,7 +18,7 @@ Slightly rotates the camera on the main menu, allowing you to access the Setting
 ## Installation
 
 * Install BepinEx in the game folder normally
-* Download StargateMenuFix.dll and add to your `PlateUp/BenInEx/plugins` folder.
+* Download StargateMenuFix.dll and add to your `Stargate/BepInEx/plugins` folder.
 
 
 Without the mod:
