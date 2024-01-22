@@ -10,12 +10,6 @@ Slightly rotates the camera on the main menu, allowing you to access the Setting
 4. Change your resolution in the settings menu
 5. Uninstall this mod
 
-###
-![without the mod](./img/1.png)
-![with the mod](./img/2.png)
-![settings page before changing resolution](./img/3.png)
-![settings page after changing resolution](./img/4.png)
-
 
 ## Requirements
 
@@ -25,3 +19,16 @@ Slightly rotates the camera on the main menu, allowing you to access the Setting
 
 * Install BepinEx in the game folder normally
 * Download StargateMenuFix.dll and add to your `PlateUp/BenInEx/plugins` folder.
+
+
+Without the mod:
+![without the mod](./img/1.png)
+
+With the mod:
+![with the mod](./img/2.png)
+
+Settings page before changing resolution:
+![settings page before changing resolution](./img/3.png)
+
+Settings page after changing resolution:
+![settings page after changing resolution](./img/4.png)
