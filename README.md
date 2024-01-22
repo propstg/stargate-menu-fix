@@ -10,6 +10,13 @@ Slightly rotates the camera on the main menu, allowing you to access the Setting
 4. Change your resolution in the settings menu
 5. Uninstall this mod
 
+###
+![without the mod](./img/1.png)
+![with the mod](./img/2.png)
+![settings page before changing resolution](./img/3.png)
+![settings page after changing resolution](./img/4.png)
+
+
 ## Requirements
 
 * BepinEx >= 5.4.21
